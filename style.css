@@ -1,0 +1,17 @@
+h1 {
+    color: mediumseagreen;
+    font-size: 25px;
+    font-family: arial;
+}
+
+div {
+    background-color: lightgray;
+}
+
+body {
+    background-color: darkgray;
+}
+
+#special {
+    color: mediumpurple;
+}
